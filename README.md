@@ -1,0 +1,1 @@
+**This JavaScript application generates random passwords. Users can copy the generated password to the clipboard with a single click. It provides a simple and convenient way to create strong and secure passwords for various purposes.**
